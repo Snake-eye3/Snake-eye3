@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Snake-eye3/Snake-eye3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Snake-eye3/AnasAbdulhameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
